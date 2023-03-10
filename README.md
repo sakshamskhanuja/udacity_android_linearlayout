@@ -13,7 +13,7 @@ The application shows a <b>ViewGroup</b> - ```LinearLayout``` that has positione
 
 ### Screenshots
 
-| Device | Virtual | OS | API | Orientation |
-| --- | --- | --- | --- | --- |
-| Pixel 6 Pro | Yes | Android Q | 29 | [Portrait](https://user-images.githubusercontent.com/122201501/224401751-1366368e-0743-4537-a3fb-e781e55b2335.png) |
-| Pixel 6 Pro | Yes | Android Q | 29 | [Landscape](https://user-images.githubusercontent.com/122201501/224401728-4d75638a-13de-4cb8-8fe8-03049a0e1996.png) |
+| Device      | Virtual | OS        | API | Orientation                                                                                                         |
+|-------------|---------|-----------|-----|---------------------------------------------------------------------------------------------------------------------|
+| Pixel 6 Pro | Yes     | Android Q | 29  | [Portrait](https://user-images.githubusercontent.com/122201501/224401751-1366368e-0743-4537-a3fb-e781e55b2335.png)  |
+| Pixel 6 Pro | Yes     | Android Q | 29  | [Landscape](https://user-images.githubusercontent.com/122201501/224401728-4d75638a-13de-4cb8-8fe8-03049a0e1996.png) |

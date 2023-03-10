@@ -2,14 +2,16 @@
 
 ### About
 
-The application shows a <b>ViewGroup</b> - ```LinearLayout``` that has positioned all his child views vertically.
+The application shows a <b>ViewGroup</b> - ```LinearLayout``` that has positioned all his child
+views vertically.
 
 ### Topics
 
 1. Layout contains views of fixed length, ```wrap_content``` and ```match_parent```.
 2. Each ```TextView``` has a padding of ```4dp```.
 3. Spaces are introduced among views via ```layout_margin```.
-4. Layout contains ```LinearLayout``` having its orientation set to ```vertical``` and another ```LinearLayout``` having its orientation set to ```horizontal```.
+4. Layout contains ```LinearLayout``` having its orientation set to ```vertical``` and
+   another ```LinearLayout``` having its orientation set to ```horizontal```.
 
 ### Screenshots
 

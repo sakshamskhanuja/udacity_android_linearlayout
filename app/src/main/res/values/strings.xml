@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+    <string name="guest_list">Guest List</string>
+
+    <!-- Guest List -->
+    <string name="guest_i">Endre</string>
+    <string name="guest_ii">Sabina</string>
+    <string name="guest_iii">Mira</string>
+    <string name="guest_iv">Dan</string>
+</resources>

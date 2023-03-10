@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <!-- GuestList TextView -->
+    <TextView
+        style="@style/GuestList"
+        android:text="@string/guest_list" />
+
+    <!-- Endre TextView -->
+    <TextView
+        style="@style/GuestList"
+        android:layout_marginTop="@dimen/marginDefault"
+        android:text="@string/guest_i" />
+
+    <!-- Sabina TextView's width is fixed. -->
+    <TextView
+        style="@style/GuestList"
+        android:layout_width="@dimen/fixedWidth"
+        android:text="@string/guest_ii" />
+
+    <!-- Mira TextView has width set to "match_parent". -->
+    <TextView
+        style="@style/GuestList"
+        android:layout_width="match_parent"
+        android:text="@string/guest_iii" />
+
+    <!-- Dan TextView -->
+    <TextView
+        style="@style/GuestList"
+        android:text="@string/guest_iv" />
+
+    <!-- ViewGroup's children are equally spaced horizontally. -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp">
+
+        <!-- Endre TextView -->
+        <TextView
+            style="@style/EqualHorizontal"
+            android:text="@string/guest_i" />
+
+        <!-- Sabina TextView -->
+        <TextView
+            style="@style/EqualHorizontal"
+            android:layout_marginStart="@dimen/marginSmall"
+            android:layout_marginEnd="@dimen/marginVerySmall"
+            android:text="@string/guest_ii" />
+
+        <!-- Mira TextView -->
+        <TextView
+            style="@style/EqualHorizontal"
+            android:layout_marginStart="@dimen/marginVerySmall"
+            android:layout_marginEnd="@dimen/marginSmall"
+            android:text="@string/guest_iii" />
+
+        <!-- Dan TextView -->
+        <TextView
+            style="@style/EqualHorizontal"
+            android:text="@string/guest_iv" />
+    </LinearLayout>
+</LinearLayout>

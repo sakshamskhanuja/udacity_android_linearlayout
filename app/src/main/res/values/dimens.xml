@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fixedWidth">200dp</dimen>
+    <dimen name="paddingSmall">4dp</dimen>
+
+    <!-- Margins -->
+    <dimen name="marginVerySmall">4dp</dimen>
+    <dimen name="marginSmall">8dp</dimen>
+    <dimen name="marginDefault">16dp</dimen>
+</resources>

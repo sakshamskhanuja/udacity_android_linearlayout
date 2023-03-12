@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorAccent">#212121</color>
-    <color name="colorPrimary">@color/colorPrimaryDark</color>
-    <color name="colorPrimaryDark">@color/colorAccent</color>
-    <color name="colorBackground">#C53522</color>
-    <color name="guestListBackground">#0D4689</color>
-    <color name="colorText">@android:color/white</color>
+    <color name="color_accent">#212121</color>
+    <color name="color_primary">@color/color_primary_dark</color>
+    <color name="color_primary_dark">@color/color_accent</color>
+    <color name="color_background">#C53522</color>
+    <color name="color_guest_list_background">#0D4689</color>
+    <color name="color_text">@android:color/white</color>
 </resources>
